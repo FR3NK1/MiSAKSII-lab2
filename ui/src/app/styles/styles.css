@@ -1,0 +1,13 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-7)) !important;
+}
+
+.Page {
+  height: 100%;
+}
